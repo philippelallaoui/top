@@ -1,0 +1,11 @@
+{
+  " posts ": [
+    {
+    " id ": 1,
+    " Name ": " json-server ",
+	  "Phone" : "0634365301",
+	  " Email ": " yahoo61@laposte.net ",
+	  "Prenon":"philippe"
+    }
+  ]
+}
